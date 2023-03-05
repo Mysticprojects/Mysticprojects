@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Gmail Badge](https://img.shields.io/badge/-harrissultan0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harrissultan0@gmail.com)](mailto:harrissultan0@gmail.com)
-![Protonmail](https://img.shields.io/badge/-green-mist@ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
+![Protonmail](https://img.shields.io/badge/green-mist@ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
 
 
 ## ⚡ Technologies
