@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harrissultan009/)](https://www.linkedin.com/in/harrissultan009/)
+[![Linkedin Badge](https://img.shields.io/badge/-harrissultan009-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harrissultan009/)](https://www.linkedin.com/in/harrissultan009/)
 [![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harrissultan0@gmail.com)](mailto:harrissultan0@gmail.com)
 
 
