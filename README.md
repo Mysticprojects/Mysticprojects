@@ -1,6 +1,8 @@
 ### Hi there 👋
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="harris-sultan-522969233" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/harris-sultan-522969233?trk=profile-badge">Harris sultan</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="harris-sultan-522969233" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/harris-sultan-522969233?trk=profile-badge">Harris sultan</a></div>
+              
               
 [![Linkedin Badge](https://img.shields.io/badge/-harrissultan009-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harrissultan009/)](https://www.linkedin.com/in/harrissultan009/)
 [![Gmail Badge](https://img.shields.io/badge/-harrissultan0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harrissultan0@gmail.com)](mailto:harrissultan0@gmail.com)
