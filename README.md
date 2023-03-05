@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+
 <!--
 **Mysticprojects/Mysticprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +20,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mysticprojects&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Mysticprojects.Mysticprojects)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Mysticprojects.visitor-badge)
