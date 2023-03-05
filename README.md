@@ -14,7 +14,6 @@
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Mysticprojects&count_private=true&show_icons=true&include_all_commits=true)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Mysticprojects&show_icons=true&theme=gotham")
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Mysticprojects.Mysticprojects)
