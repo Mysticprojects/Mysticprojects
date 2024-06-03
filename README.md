@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harrissultan0@gmail.com)](mailto:harrissultan0@gmail.com)
 ![Protonmail](https://img.shields.io/badge/Proton-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
 
 
