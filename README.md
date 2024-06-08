@@ -1,9 +1,14 @@
 ### Hi there 👋
 
-![Protonmail](https://img.shields.io/badge/Proton-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
+## ⚡ Technologies and Skills
 
-
-## ⚡ Technologies
+Programming Languages: HTML5, CSS3, JavaScript, PHP, SQL, Python
+Big Data and Machine Learning:
+Python: numpy, matplotlib, networkx
+Frameworks: CodeIgniter, Bootstrap
+Tools & Technologies:
+VSCode, Linux, Git, Jupyter Notebook
+Data Science: Visualization and Modeling
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
